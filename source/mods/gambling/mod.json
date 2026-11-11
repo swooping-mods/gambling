@@ -1,0 +1,14 @@
+{
+  "id": "gambling",
+  "kind": "native",
+  "version": "0.1.0",
+  "display_name": "Credits Gambling",
+  "backlog": "M17",
+  "feature_dependencies": [],
+  "gameplay": true,
+  "hotkey": "Ctrl+G",
+  "play_help": [
+    "Ctrl+G wagers a small amount of virtual game credits.",
+    "Gameplay testing is deferred; use a disposable Steam-only world."
+  ]
+}
