@@ -1,5 +1,7 @@
 # Credits Gambling
 
+<img src="media/icon.png" alt="Credits Gambling icon" width="128" height="128">
+
 Ctrl+G wagers a small amount of virtual game credits.
 
 ## Install
